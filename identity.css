@@ -1,0 +1,7 @@
+body {
+    background-image:url(https://gardens.si.edu/wp-content/uploads/2019/04/what-is-an-orchid.jpg);
+}
+p{ background-color: rgba(245, 245, 220, 0.589);}
+ol { color: beige;
+}
+table,tr,td{ background-color: rgba(245, 245, 220, 0.288); border:3px solid }
